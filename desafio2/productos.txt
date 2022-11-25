@@ -1,0 +1,20 @@
+[
+  {
+    "title": "coder",
+    "price": 1234,
+    "thumbnail": "foto",
+    "id": 1
+  },
+  {
+    "title": "coder",
+    "price": 1234,
+    "thumbnail": "foto",
+    "id": 2
+  },
+  {
+    "title": "coder",
+    "price": 1234,
+    "thumbnail": "foto",
+    "id": 3
+  }
+]
